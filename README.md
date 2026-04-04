@@ -7,7 +7,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -28,3 +27,18 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
+Core Skills
+Adobe Photoshop | Unity | C# | Blender | SQL | .NET | Git | HTML/CSS/JS
+
+🔭 I’m currently working on
+My personal dark portfolio site «Murphy Codex» and a 3D character for my diploma project in Blender + Unity.
+👯 I’m looking to collaborate on
+Interesting Unity / C# projects, small game prototypes/.
+🤝 I’m looking for help with
+Advanced Unity architecture, clean code practices and building a strong personal brand as a developer.
+🌱 I’m currently learning
+Deeper Unity systems, advanced C#, 3D workflow in Blender and how to combine technical skills with personal style.
+💬 Ask me about
+Discipline, philosophy (Nietzsche & more), game development, self-improvement, or why I believe code can be a weapon.
+⚡️ Fun fact
+I’ve been called “stubborn” since kindergarten — now I just call it discipline. Still working on being less quiet in real life, but getting better.
