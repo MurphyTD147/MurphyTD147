@@ -33,6 +33,8 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
 
+Polyglot developer by choice, C# enthusiast by discipline.
+
 🔭 I’m currently working on
 My personal dark portfolio site «Murphy Codex» and a 3D character for my diploma project in Blender + Unity.
 
