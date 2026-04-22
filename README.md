@@ -45,7 +45,7 @@
 Polyglot developer by choice, C# enthusiast by discipline.
 
 🔭 I’m currently working on
-My personal dark portfolio site «Murphy Codex» and a 3D character for my diploma project in Blender + Unity.
+An integrated Cross-Platform Ecosystem (Web + Android) and a high-fidelity 3D interactive experience for my diploma project. Currently mastering the full game-dev pipeline: from Blender & Substance Painter sculpting to Unity C# architecture and FL Studio sound design.
 
 👯 I’m looking to collaborate on
 Interesting Unity / C# projects, small game prototypes/.
