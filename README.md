@@ -1,4 +1,4 @@
-# 👋 Привет, я Виталий
+# 👋 Привет, я Виталий Эмиров
 
 **Оператор ЭВМ / Junior Разработчик**  
 📍 Беларусь (Могилёв) · 🎓 Выпускник ГГАЭК (2022–2026) · 🕒 Открыт к предложениям
@@ -34,6 +34,28 @@
 
 **Языки:**  
 🇷🇺 Русский (родной) · 🇬🇧 English (B1) · 🇩🇪 Deutsch (A1)
+
+---
+
+## 🧰 Авторские тулкиты и библиотеки
+
+Помимо учебных и игровых проектов, я разрабатываю собственные библиотеки компонентов для повторного использования в проектах. 
+
+### 🎮 [MurphyUnityToolkit](https://github.com/MurphyTD147/MurphyUnityToolkit)
+[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/MurphyTD147/MurphyUnityToolkit)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/MurphyTD147/MurphyUnityToolkit)
+
+Коллекция готовых скриптов и решений для Unity. Включает в себя:
+- **AI:** продвинутый контроллер NPC-корабля (FSM с 5 состояниями, Line of Sight, страйфинг).
+- **Gameplay:** управление кораблем, система здоровья с событиями (Event-driven).
+- **Effects:** контроллер визуальных эффектов (нитро, частицы).
+
+### 🖥️ [MurphyWPFToolkit](https://github.com/MurphyTD147/MurphyWPFToolkit)
+[![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/MurphyTD147/MurphyWPFToolkit)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/MurphyTD147/MurphyWPFToolkit)
+
+Библиотека компонентов и утилит для десктопной разработки на WPF (в стадии наполнения). 
+Планируемая структура: кастомные UI-элементы, MVVM-хелперы (`RelayCommand`, `ViewModelBase`), темы оформления (Light/Dark) и переиспользуемые окна.
 
 ---
 
@@ -77,6 +99,25 @@
 [![Itch.io](https://img.shields.io/badge/Itch.io-AstroLeaf-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://astroleaf-studio.itch.io)
 
 > *Это не коммерческая студия, а наше хобби и способ практиковать навыки разработки, геймдизайна и командной работы.*
+
+---
+
+## 🌐 Веб-проекты и эксперименты (Live Demos)
+
+Помимо десктопной и игровой разработки, я экспериментирую с веб-технологиями. Эти проекты доступны в виде live-демо (исходный код находится в приватных репозиториях, так как это мои ранние черновые и экспериментальные версии, собранные с использованием AI-ассистентов для быстрого прототипирования).
+
+### 🎬 [BladeMint](https://blademint.vercel.app)
+Интерактивная веб-платформа для просмотра аниме с системой эпизодов, плеером и геймификацией (XP-уровни). 
+*Стек: Frontend (React/Next.js) + Vercel.*
+
+### 💻 [Murphy Codex](https://murphy-td-codex.vercel.app)
+Персональный сайт-визитка и интерактивное портфолио в стиле Sci-Fi/Cyberpunk. 
+**Особенности:**
+- **Раздел «Кузница» (Forge):** интерактивный архив проектов и артефактов (3D-модели, скрипты C#/JS/Kotlin, дизайн).
+- **Трекер прогресса:** отображение статистики времени, проведенного за изучением технологий (C#, Unity, Blender). Данные собирались через собственное мобильное приложение на Kotlin (Murphy Forge API) и обновлялись в реальном времени.
+- **Философия:** раздел с личными принципами и подходом к разработке.
+
+*Стек: Frontend + Vercel (с интеграцией внешнего API).*
 
 ---
 
