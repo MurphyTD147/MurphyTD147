@@ -21,14 +21,14 @@
 
 ## 🛠️ Технический стек
 
-**Языки программирования:**  
-`Delphi` · `C#` · `JavaScript` · `Kotlin`
+**Основной фокус (Core):**  
+`C#` · `Delphi` · `SQL Server` · `Unity`
 
-**Базы данных:**  
-`SQL Server`
+**Опыт работы (Practical):**  
+`Git` · `Visual Studio` · `WPF` · `Windows Forms` · `BPMN` · `Blender (базово)`
 
-**Инструменты и технологии:**  
-`Git` · `Visual Studio` · `Unity` · `BPMN` · `MS Office` · `Photoshop` · `Blender (базово)`
+**Знаком и изучаю (Familiar & Exploring):**  
+`JavaScript` · `Kotlin` · `HTML/CSS` · `React` · `Firebase`
 
 **Операционные системы:**  
 `Windows (XP–11)`
