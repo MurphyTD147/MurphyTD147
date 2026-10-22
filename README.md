@@ -22,7 +22,7 @@
 ## 🛠️ Технический стек
 
 **Языки программирования:**  
-`Delphi` · `C#` · `JavaScript`
+`Delphi` · `C#` · `JavaScript` · `Kotlin`
 
 **Базы данных:**  
 `SQL Server`
